@@ -6,7 +6,7 @@ namespace ReverseNumber
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
